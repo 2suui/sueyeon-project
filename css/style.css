@@ -223,12 +223,12 @@ html {
 }
 
 footer {
-  background-color: black; /* 검정 배경색 설정 */
-  color: white; /* 글자 색상 설정 */
-  text-align: center; /* 텍스트 가운데 정렬 */
-  padding: 20px; /* 원하는 패딩 설정 */
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
 }
 
 footer p {
-  letter-spacing: 2px; /* 글자 사이 간격 설정 */
+  letter-spacing: 2px;
 }
