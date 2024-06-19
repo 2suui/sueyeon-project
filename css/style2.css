@@ -206,3 +206,7 @@ footer {
   text-align: center; /* 텍스트 가운데 정렬 */
   padding: 20px; /* 원하는 패딩 설정 */
 }
+
+footer p {
+  letter-spacing: 2px; /* 글자 사이 간격 설정 */
+}
