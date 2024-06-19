@@ -199,3 +199,10 @@ html {
   width: 500px;
   height: 500px;
 }
+
+footer {
+  background-color: black; /* 검정 배경색 설정 */
+  color: white; /* 글자 색상 설정 */
+  text-align: center; /* 텍스트 가운데 정렬 */
+  padding: 20px; /* 원하는 패딩 설정 */
+}
