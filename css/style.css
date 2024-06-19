@@ -31,6 +31,11 @@ em {
   padding: 0;
 }
 
+body {
+  font-family: 'Noto Sans KR', sans-serif;
+  src: url('https://fonts.gstatic.com');
+}
+
 #wrap {
   min-width: 1320px;
 }
@@ -78,12 +83,12 @@ html {
   left: 0;
 }
 .gnb_wrap {
-  display: flex; /* Flex 컨테이너로 설정 */
+  display: flex;
 }
 .gnb_wrap > li > a {
-  margin: 0 30px; /* 링크 주변 여백 설정 */
-  padding: 5px 20px; /* 링크 안 여백 설정 */
-  color: black; /* 링크 색상 설정 */
+  margin: 0 30px;
+  padding: 5px 20px;
+  color: black;
 }
 
 .gnb_wrap > li:nth-child(1) > a:hover {
