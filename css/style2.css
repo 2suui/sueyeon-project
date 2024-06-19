@@ -128,12 +128,6 @@ html {
   border-bottom: 3px solid black;
 }
 
-.img_wrap {
-  width: 300px;
-  height: 400px;
-  background-color: black;
-  box-sizing: border-box;
-}
 .box {
   align-items: center;
   margin: 0 auto;
@@ -198,5 +192,10 @@ html {
   height: 1200px;
 }
 .box2 {
-  height: 1200px;
+  height: 600px;
+}
+
+.img {
+  width: 500px;
+  height: 500px;
 }
