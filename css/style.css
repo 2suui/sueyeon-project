@@ -136,6 +136,19 @@ html {
   background: url(/img/tu11.jpg);
   background-size: cover;
 }
+.item_bg2 {
+  width: 450px;
+  height: 300px;
+  background: url(/img/tufamily2.jpg);
+  background-size: cover;
+}
+
+.item_bg3 {
+  width: 300px;
+  height: 400px;
+  background: url(/img/cd.png);
+  background-size: cover;
+}
 
 .box {
   align-items: center;
