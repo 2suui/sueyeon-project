@@ -130,6 +130,13 @@ html {
   background-color: black;
   box-sizing: border-box;
 }
+.item_bg {
+  width: 300px;
+  height: 400px;
+  background: url(/img/tu11.jpg);
+  background-size: cover;
+}
+
 .box {
   align-items: center;
   margin: 0 auto;
@@ -191,7 +198,7 @@ html {
 }
 
 .box1 {
-  height: 1200px;
+  height: 700px;
 }
 .box2 {
   height: 1200px;
